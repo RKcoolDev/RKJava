@@ -9,6 +9,7 @@ public class Person {
 	}
 	@Override
 	public String toString() {
+		System.out.println("Print the Name --->"+firstName+"--lastName-->"+lastName);
 		return "Person [firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + "]";
 	}
 	public String getFirstName() {
