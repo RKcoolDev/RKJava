@@ -22,5 +22,7 @@ public class SumPairFind {
 		System.out.println(entry.getKey()+"----->"+entry.getValue());
 	}
 	
+	System.out.println("First Syso in Sum and Pair");
+	
 }
 }
